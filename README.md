@@ -2,7 +2,7 @@
 
 This is a simple HTML5 template used to quickly start new projects.
 
-It imports jQuery and Bootstrap (from CDN sources).
+It imports [jQuery](http://jquery.com/) and [Bootstrap](http://getbootstrap.com/) (from CDN sources).
 
 ## License
 
